@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "griefpreventionmapper",
+  "version": "${version}",
+  "name": "GriefPreventionMapper",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/griefpreventionmapper/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "net.toarupgm.griefpreventionmapper.client.GriefPreventionMapperClient"
+    ],
+    "modmenu": [
+      "net.toarupgm.griefpreventionmapper.client.config.ModMenuEntry"
+    ],
+    "main": [
+      "net.toarupgm.griefpreventionmapper.GriefPreventionMapper"
+    ]
+  },
+  "mixins": [
+    "griefpreventionmapper.mixins.json",
+    {
+      "config": "griefpreventionmapper.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

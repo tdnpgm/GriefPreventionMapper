@@ -1,0 +1,87 @@
+[21:43:16] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.4 with Fabric Loader 0.16.9
+[21:43:17] [main/INFO] (FabricLoader) Loading 59 mods:
+	- fabric-api 0.97.2+1.20.4
+	- fabric-api-base 0.4.37+78d798af4f
+	- fabric-api-lookup-api-v1 1.6.50+82b1bb3e4f
+	- fabric-biome-api-v1 13.0.17+78d798af4f
+	- fabric-block-api-v1 1.0.17+3e2216cb4f
+	- fabric-block-view-api-v2 1.0.5+78d798af4f
+	- fabric-blockrenderlayer-v1 1.1.47+78d798af4f
+	- fabric-client-tags-api-v1 1.1.8+78d798af4f
+	- fabric-command-api-v1 1.2.42+f71b366f4f
+	- fabric-command-api-v2 2.2.21+78d798af4f
+	- fabric-commands-v0 0.2.59+df3654b34f
+	- fabric-containers-v0 0.1.88+df3654b34f
+	- fabric-content-registries-v0 5.0.16+78d798af4f
+	- fabric-convention-tags-v1 1.5.11+78d798af4f
+	- fabric-crash-report-info-v1 0.2.24+78d798af4f
+	- fabric-data-attachment-api-v1 1.1.5+b90db5744f
+	- fabric-data-generation-api-v1 13.2.6+5c0133444f
+	- fabric-dimensions-v1 2.1.63+6605d1a84f
+	- fabric-entity-events-v1 1.6.2+09fc25014f
+	- fabric-events-interaction-v0 0.7.2+389931eb4f
+	- fabric-events-lifecycle-v0 0.2.75+df3654b34f
+	- fabric-game-rule-api-v1 1.0.47+78d798af4f
+	- fabric-gametest-api-v1 1.3.6+85d85a934f
+	- fabric-item-api-v1 2.3.0+bcdd12964f
+	- fabric-item-group-api-v1 4.0.27+ee30b13a4f
+	- fabric-key-binding-api-v1 1.0.42+78d798af4f
+	- fabric-keybindings-v0 0.2.40+df3654b34f
+	- fabric-lifecycle-events-v1 2.3.1+a67ffb5d4f
+	- fabric-loot-api-v2 2.1.10+78d798af4f
+	- fabric-message-api-v1 6.0.6+78d798af4f
+	- fabric-mining-level-api-v1 2.1.66+78d798af4f
+	- fabric-model-loading-api-v1 1.0.9+78d798af4f
+	- fabric-models-v0 0.4.8+9386d8a74f
+	- fabric-networking-api-v1 3.1.9+6abb6a4b4f
+	- fabric-object-builder-api-v1 13.1.0+dba1195c4f
+	- fabric-particles-v1 1.1.8+78d798af4f
+	- fabric-recipe-api-v1 2.0.22+78d798af4f
+	- fabric-registry-sync-v0 4.0.21+ee30b13a4f
+	- fabric-renderer-api-v1 3.2.5+78d798af4f
+	- fabric-renderer-indigo 1.5.6+d331d3144f
+	- fabric-renderer-registries-v1 3.2.54+df3654b34f
+	- fabric-rendering-data-attachment-v1 0.3.43+73761d2e4f
+	- fabric-rendering-fluids-v1 3.1.2+e761c6694f
+	- fabric-rendering-v0 1.1.57+df3654b34f
+	- fabric-rendering-v1 3.2.1+6fd945a04f
+	- fabric-resource-conditions-api-v1 2.3.15+78d798af4f
+	- fabric-resource-loader-v0 0.11.21+ee30b13a4f
+	- fabric-screen-api-v1 2.0.18+78d798af4f
+	- fabric-screen-handler-api-v1 1.3.57+78d798af4f
+	- fabric-sound-api-v1 1.0.18+78d798af4f
+	- fabric-transfer-api-v1 4.0.12+90f2d7b14f
+	- fabric-transitive-access-wideners-v1 5.0.15+78d798af4f
+	- fabricloader 0.16.9
+	- griefpreventionmapper 1.0-SNAPSHOT
+	- java 23
+	- minecraft 1.20.4
+	- mixinextras 0.4.1
+	- modmenu 9.2.0
+	- yet_another_config_lib_v3 3.6.2+1.20.4-fabric
+[21:43:17] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/tdnpg/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[21:43:18] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[21:43:18] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[21:43:19] [main/WARN] (FabricLoader/Mixin) Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[21:43:20] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:43:32] [Datafixer Bootstrap/INFO] (Minecraft) 198 Datafixer optimizations took 379 milliseconds
+[21:43:36] [Render thread/INFO] (Minecraft) [STDERR]: [LWJGL] [ThreadLocalUtil] Unsupported JNI version detected, this may result in a crash. Please inform LWJGL developers.
+[21:43:37] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:43:37] [Render thread/INFO] (Minecraft) Setting user: Player260
+[21:43:38] [Render thread/INFO] (fabric-networking-api-v1) Force Packet Serialization is enabled to mimic remote connection on single player, this is the default behaviour on dev env. Add -Dfabric-api.networking.force-packet-serialization=false JVM arg to disable it.
+[21:43:38] [Download-2/ERROR] (Minecraft) Failed to fetch user properties
+com.mojang.authlib.exceptions.InvalidCredentialsException: Status: 401
+	at com.mojang.authlib.exceptions.MinecraftClientHttpException.toAuthenticationException(MinecraftClientHttpException.java:59) ~[authlib-6.0.52.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:150) ~[authlib-6.0.52.jar:?]
+	at net.minecraft.client.MinecraftClient.method_55608(MinecraftClient.java:467) ~[minecraft-clientOnly-5c9f4da6a2-1.20.4-net.fabricmc.yarn.1_20_4.1.20.4+build.3-v2.jar:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1812) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1575) ~[?:?]
+Caused by: com.mojang.authlib.exceptions.MinecraftClientHttpException: Status: 401
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:100) ~[authlib-6.0.52.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[authlib-6.0.52.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilUserApiService.fetchProperties(YggdrasilUserApiService.java:121) ~[authlib-6.0.52.jar:?]
+	... 5 more
+[21:43:38] [Render thread/INFO] (Mod Menu/Update Checker) Checking mod updates...
+[21:43:38] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
